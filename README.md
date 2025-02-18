@@ -25,20 +25,3 @@ Este repositório contém um projeto de aprendizado sobre web scraping utilizand
 ## 📂 Estrutura do Projeto
 
 - `web-scraping-test.ipynb` → Notebook do Google Colab com todo o código e anotações.
-
-## 🚀 Como Executar
-
-1. Clone o repositório:
-   ```sh
-   git clone https://github.com/seu-usuario/web-scraping-test.git
-   ```
-2. Instale as dependências necessárias:
-   ```sh
-   pip install beautifulsoup4 requests pandas
-   ```
-3. Execute o notebook em um ambiente compatível (Jupyter Notebook ou Google Colab).
-
-## 📌 Referências
-
-- [BeautifulSoup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-- [Requests Library](https://docs.python-requests.org/en/latest/)
